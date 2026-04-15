@@ -5,8 +5,8 @@
 
 Integrantes:
 
-- {Obregon, Tobias } | [tobiasaobregon-hue](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
+- {Obregon, Tobias } | [tobiasaobregon-hue](https://github.com/tobiasaobregon-hue)
+- {Gimenez, Kevin} | [kili8588](https://github.com/kili8588)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 
