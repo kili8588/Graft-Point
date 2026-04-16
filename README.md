@@ -1,7 +1,6 @@
 # Graft Point
 
-**Descripción:**
-{breve explicación del proyecto}
+Es una aplicacion social diseñada para que artistas puedan publicar, vender y comprar el arte que genenan, dandoles visibilidad y oportunidades reales 
 
 Integrantes:
 
@@ -14,12 +13,12 @@ Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
 
 ## Elevator's Pitch
 
-- Para {cliente objetivo}
-- Quienes {necesidad y/o oportunidad}
-- El {nombre del proyecto} es un {categoría del producto}
-- Que {beneficio clave, razón para comprarlo}
-- Diferente a {otras soluciones existentes, por ejemplo...}
-- Nuestro proyecto {declaración de la diferencia}.
+- Para Artistas y personas interesadas en el arte
+- Quienes Necesitan un espacio para compartir sus obras y comunicarse
+- El Graft Point es una red social de artitas donde venden y compran productos
+- Que Te permite publicar fotos, mandar mensajes, comprar productos de arte y venderlos todo en un mismo lugar
+- Diferente a sitios como ArtConnect o Singulart ya que Graft Point integra a una comunidad y les da visibilidad y oportuniadades reales a los artistas
+- Nuestro proyecto Une la interaccion social con la venta directa, haciendo mas facil ganar visibilidad y plata de por nedio
 
 ## Requisitos
 
