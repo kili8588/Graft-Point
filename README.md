@@ -6,7 +6,7 @@ Integrantes:
 
 - {Obregon, Tobias } | [tobiasaobregon-hue](https://github.com/tobiasaobregon-hue)
 - {Gimenez, Kevin} | [kili8588](https://github.com/kili8588)
-- {Ibarra, Roman} | [@Roman-hgf](https://github.com/Roman-hgf)
+- {Apellido, Nombre} | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 
 Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
